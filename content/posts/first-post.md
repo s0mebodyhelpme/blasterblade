@@ -53,4 +53,4 @@ Always, always, ALWAYS read the DOCS! This is the best advice I can give you. Re
 
 That's all for now. God bless
 
-{{< chat cactus-comments >}}
+{{< chat >}}

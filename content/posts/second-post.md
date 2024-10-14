@@ -19,3 +19,5 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 to regenerate the grub.cfg.
 Alternatively, set the amd_pstate driver to passive or guided for less taxing workloads.
+
+{{< chat >}}
